@@ -4,7 +4,7 @@
 
 1. Install Homebrew: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 Node must be installed in your machine. You can use BREW: `brew install node`
-Installation:
+## Installation:
 1. Install LESS compiler: "npm install -g less"
 2. Create directory `sudo mkdir /alpha7`
 3. Go to directory `cd /alpha7`
